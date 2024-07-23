@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "LastMessage",
+  "mainClass": "me.giverplay.lastmessage.LastMessage",
+  "description": "Send lst message",
+  "version": 1,
+  "author": "GiverPlay",
+  "category": 2,
+  "icon": "https://iili.io/JXTUZbt.png"
+}
